@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Sep 26 09:53:56 2021
+Created in September 2021
 
 @author: Chirayu
 """
 
-'''Pathfinding Algorithm to find shortest path between two nodes. Make a class of grid points
+'''
+Pathfinding Algorithm to find shortest path between two nodes. Make a class of grid points
 the grid points will contain the g cost (from start), h cost (from end) from which the fcost is implied.
- will also contain colour (for whether it is being checked on a boundary, node, normal). The grid points
- will also contain parent which gives it the lowest fcost.
+will also contain colour (for whether it is being checked on a boundary, node, normal). The grid points
+will also contain parent which gives it the lowest fcost.
  '''
 
 import pygame
