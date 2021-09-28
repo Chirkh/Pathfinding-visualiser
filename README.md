@@ -5,6 +5,7 @@ The program uses pygame for the animation and visualisation.
 
 Here is an example of the output:
 
-![image](https://user-images.githubusercontent.com/91262171/135067314-72463e39-75e4-4fe2-aac7-0a735f88a979.png)
+![image](https://user-images.githubusercontent.com/91262171/135070038-77bed796-494b-4e62-8e01-cf726df93048.png)
+
 
 
