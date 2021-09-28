@@ -22,8 +22,6 @@ white=(255,255,255)
 black=(0,0,0)
 cyan=(0,255,255)
 pixel=10 #number of pixels each square is across
-#gen_per_frame=1
-#frame_per_sec=2
 class point():
     def __init__(self, x, y, Node):
         '''
